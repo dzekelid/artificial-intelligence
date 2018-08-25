@@ -11,40 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Alerts API
-  x-api-slug: alerts-api
-  description: Pingometer is a service that monitors the uptime, downtime, and performance
-    of websites. Get 24/7 monitoring - sign up for your FREE account today!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg
-  humanURL: https://pingometer.com/
-  baseURL: ://api.serverdensity.io./
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/openapi.md
-- name: Checks API
-  x-api-slug: checks-api
-  description: the-checks-api-
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg
-  humanURL: https://pingometer.com/
-  baseURL: https://api.pingdom.com//
-  tags: Monitoring, Performance, Stack Network, SaaS, Technology, internet, Relative
-    Data, Service API, Relative StreamRank, Streams
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/apiversionchecks-get-openapi.md
-- name: Checks API
-  x-api-slug: checks-api
-  description: Pingometer is a service that monitors the uptime, downtime, and performance
-    of websites. Get 24/7 monitoring - sign up for your FREE account today!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg
-  humanURL: https://pingometer.com/
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://pingdom.api.gallery.streamdata.io

@@ -12,9 +12,10 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/bmc-software/apis.md
 specificationVersion: "0.14"
 apis:
-- name: BMC Software API
-  x-api-slug: bmc-software-api
-  description: ""
+- name: BMC Software Merged API - Get Actions (Alerts) List
+  x-api-slug: apiversionactions-get
+  description: Returns a list of actions (alerts) that have been generated for your
+    account.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/713-bmc-software.jpg
   humanURL: http://www.bmc.com
   baseURL: https:///
@@ -25,17 +26,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/bmc-software/apiversionactions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/bmc-software/apiversionactions-get-openapi.md
-- name: BMC Software API
-  x-api-slug: bmc-software-api
-  description: Transform your digital enterprise with BMC IT solutions. From mainframe
-    to cloud to mobile, we???ll help you drive innovation and industrial efficiency.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/713-bmc-software.jpg
-  humanURL: http://www.bmc.com
-  baseURL: https:///
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/bmc-software/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://blogger.api.gallery.streamdata.io

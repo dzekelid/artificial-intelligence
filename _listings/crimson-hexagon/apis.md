@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/crimson-hexagon/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Crimson Hexagon
-  x-api-slug: crimson-hexagon
-  description: Crimson Hexagon is an AI-powered consumer insights company for brand
-    managers, marketers, executives, and more.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21649-crimsonhexagon-com.jpg
-  humanURL: http://crimsonhexagon.com
-  baseURL: https:///
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/crimson-hexagon/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.crimsonhexagon.com/blog/

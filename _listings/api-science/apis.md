@@ -13,9 +13,9 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/api-science/apis.md
 specificationVersion: "0.14"
 apis:
-- name: API Science
-  x-api-slug: api-science
-  description: ""
+- name: API Science - Get Contacts List
+  x-api-slug: apiversioncontacts-get
+  description: Returns a list of all contacts.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
   humanURL: http://apiscience.com
   baseURL: https:///
@@ -26,18 +26,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/api-science/apiversioncontacts-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/api-science/apiversioncontacts-get-openapi.md
-- name: API Science
-  x-api-slug: api-science
-  description: Traditional monitoring services were designed long before APIs became
-    core to modern applications. API Science is designed specifically for monitoring
-    APIs. Sure, we understand REST, JSON, OAuth, XML. No problem.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
-  humanURL: http://apiscience.com
-  baseURL: https:///
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/api-science/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://api.science.api.gallery.streamdata.io

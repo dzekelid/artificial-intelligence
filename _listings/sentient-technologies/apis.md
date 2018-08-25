@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/sentient-technologies/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Sentient Technologies
-  x-api-slug: sentient-technologies
-  description: For over ten years Sentient has developed cutting-edge AI software.
-    Harness the power of AI to improve customer engagement and uplift website conversions.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28242-www-sentient-ai.jpg
-  humanURL: https://www.sentient.ai
-  baseURL: https:///
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/sentient-technologies/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.sentient.ai/blog/

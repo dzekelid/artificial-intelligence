@@ -12,9 +12,10 @@ modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Analysis API
-  x-api-slug: analysis-api
-  description: ""
+- name: Analysis API - Get Root Cause Analysis Results List
+  x-api-slug: apiversionanalysischeckid-get
+  description: Returns a list of the latest root cause analysis results for a specified
+    check.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
   humanURL: http://www.pingdom.com
   baseURL: :///
@@ -25,53 +26,10 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionanalysischeckid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionanalysischeckid-get-openapi.md
-- name: Analysis API
-  x-api-slug: analysis-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: :///
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Checks API
-  x-api-slug: checks-api
-  description: the-checks-api-
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Monitoring, Performance, SaaS, Technology, internet, Service API, Relative
-    Data, Relative StreamRank, Streams
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionchecks-get-openapi.md
-- name: Checks API
-  x-api-slug: checks-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Credits API
-  x-api-slug: credits-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Probes API
-  x-api-slug: probes-api
-  description: the-probes-api-
+- name: Probes API - Get Probe Server List
+  x-api-slug: apiversionprobes-get
+  description: Returns a list of all Pingdom probe servers for Uptime and Transaction
+    checks.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
   humanURL: http://www.pingdom.com
   baseURL: https://api.pingdom.com//
@@ -82,64 +40,9 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionprobes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionprobes-get-openapi.md
-- name: Probes API
-  x-api-slug: probes-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Reference API
-  x-api-slug: reference-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Reports API
-  x-api-slug: reports-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Results API
-  x-api-slug: results-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Servertime API
-  x-api-slug: servertime-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Settings API
-  x-api-slug: settings-api
-  description: the-settings-api-
+- name: Settings API - Get Account Settings
+  x-api-slug: apiversionsettings-get
+  description: Returns all account-specific settings.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
   humanURL: http://www.pingdom.com
   baseURL: https://api.pingdom.com//
@@ -150,31 +53,10 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsettings-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsettings-get-openapi.md
-- name: Settings API
-  x-api-slug: settings-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Single API
-  x-api-slug: single-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Summary API
-  x-api-slug: summary-api
-  description: the-summary-api-
+- name: Summary API - Get A Response Time / Uptime Average
+  x-api-slug: apiversionsummary-averagecheckid-get
+  description: Get the average time / uptime value for a specified check and time
+    period.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
   humanURL: http://www.pingdom.com
   baseURL: https://api.pingdom.com//
@@ -185,45 +67,22 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsummary-averagecheckid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsummary-averagecheckid-get-openapi.md
-- name: Summary API
-  x-api-slug: summary-api
-  description: the-summary-api-
+- name: Summary API - Get Intervals of Average Response Time and Uptime During a Given
+    Interval
+  x-api-slug: apiversionsummary-performancecheckid-get
+  description: |-
+    For a given interval in time, return a list of sub intervals with the given resolution. Useful for generating graphs. A sub interval may be a week,
+         a day or an hour depending on the choosen resolution.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
   humanURL: http://www.pingdom.com
   baseURL: https://api.pingdom.com//
   tags: Monitoring, Performance, SaaS, Technology, internet, Service API, Relative
     Data, Relative StreamRank, Streams
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsummary-averagecheckid-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsummary-averagecheckid-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsummary-performancecheckid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionsummary-performancecheckid-get-openapi.md
-- name: Summary API
-  x-api-slug: summary-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
-- name: Traceroute API
-  x-api-slug: traceroute-api
-  description: Monitor your websites availability and performance for free with Pingdom
-    and always be the first to know when your website is down. No installation required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
-  humanURL: http://www.pingdom.com
-  baseURL: https://api.pingdom.com//
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md
 x-common:
 - type: x-api-gallery
   url: http://pinboard.api.gallery.streamdata.io

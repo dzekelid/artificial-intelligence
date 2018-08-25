@@ -10,18 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/feedzai/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Feedzai
-  x-api-slug: feedzai
-  description: Feedzai is a data science company that detects fraud in omnichannel
-    commerce.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28753-feedzai-com.jpg
-  humanURL: https://feedzai.com
-  baseURL: https:///
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/feedzai/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://feedzai.com/blog/

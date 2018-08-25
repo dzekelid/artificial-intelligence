@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/infermedica/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Infermedica
-  x-api-slug: infermedica
-  description: At Infermedica we believe in people. Every team member brings unique
-    skills, talent and knowledge. Together we solve the most complex healthcare problems.
-    Infermedica improves the diagnostic process using the most advanced reasoning
-    technology for preliminary medical diagnosis.White-labelled enterprise platform
-    (web, mobile, chatbot or voice-enabled applications) for symptom checking, patient
-    triage and clinical decision support. Open developer portal that allows to easily
-    integrate our diagnostic engine into 3rd party software.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/infermedica-logo.jpeg
-  humanURL: http://infermedica.com
-  baseURL: https://api.infermedica.com//v1
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/infermedica/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://import.io.api.gallery.streamdata.io

@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/indata-labs/apis.md
 specificationVersion: "0.14"
-apis:
-- name: InData Labs
-  x-api-slug: indata-labs
-  description: InData Labs provides data science consulting, custom AI-powered software
-    development, and data science training. Focusing on predictive analytics, natural
-    language processing, and computer vision, we help businesses innovate with AI,
-    enrich customer in...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28778-indatalabs-com.jpg
-  humanURL: https://indatalabs.com
-  baseURL: https:///
-  tags: Artificial Intelligence
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/indata-labs/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://indatalabs.com/blog
