@@ -1,0 +1,318 @@
+{
+	"name": "Streadata.io API Gallery - Artificial Intelligence",
+	"description": "This is a repository of artificial intelligence APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/artificial-intelligence.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://artificial-intelligence.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pingdom",
+			"x-api-slug": "pingdom",
+			"description": "Monitor your websites availability and performance for free with Pingdom and always be the first to know when your website is down. No installation required.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg",
+			"humanURL": "http://www.pingdom.com",
+			"baseURL": "https://api.pingdom.com//",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BMC Software",
+			"x-api-slug": "bmc-software",
+			"description": "Transform your digital enterprise with BMC IT solutions. From mainframe to cloud to mobile, we???ll help you drive innovation and industrial efficiency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/713-bmc-software.jpg",
+			"humanURL": "http://www.bmc.com",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/bmc-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "API Science",
+			"x-api-slug": "api-science",
+			"description": "Traditional monitoring services were designed long before APIs became core to modern applications. API Science is designed specifically for monitoring APIs. Sure, we understand REST, JSON, OAuth, XML. No problem.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png",
+			"humanURL": "http://apiscience.com",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/api-science/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pingometer",
+			"x-api-slug": "pingometer",
+			"description": "Pingometer is a service that monitors the uptime, downtime, and performance of websites. Get 24/7 monitoring - sign up for your FREE account today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg",
+			"humanURL": "https://pingometer.com/",
+			"baseURL": "https://api.pingdom.com//",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apica",
+			"x-api-slug": "apica",
+			"description": "Apicas performance testing and monitoring solutions provide critical peak performance data and 24/7 monitoring of applications and sites around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19004-apica.jpg",
+			"humanURL": "https://www.apicasystem.com",
+			"baseURL": ":///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/apica/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Crimson Hexagon",
+			"x-api-slug": "crimson-hexagon",
+			"description": "Crimson Hexagon is an AI-powered consumer insights company for brand managers, marketers, executives, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21649-crimsonhexagon-com.jpg",
+			"humanURL": "http://crimsonhexagon.com",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/crimson-hexagon/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Infermedica",
+			"x-api-slug": "infermedica",
+			"description": "At Infermedica we believe in people. Every team member brings unique skills, talent and knowledge. Together we solve the most complex healthcare problems. Infermedica improves the diagnostic process using the most advanced reasoning technology for preliminary medical diagnosis.White-labelled enterprise platform (web, mobile, chatbot or voice-enabled applications) for symptom checking, patient triage and clinical decision support. Open developer portal that allows to easily integrate our diagnostic engine into 3rd party software.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/infermedica-logo.jpeg",
+			"humanURL": "http://infermedica.com",
+			"baseURL": "https://api.infermedica.com//v1",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/infermedica/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sentient Technologies",
+			"x-api-slug": "sentient-technologies",
+			"description": "For over ten years Sentient has developed cutting-edge AI software. Harness the power of AI to improve customer engagement and uplift website conversions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28242-www-sentient-ai.jpg",
+			"humanURL": "https://www.sentient.ai",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/sentient-technologies/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Indico",
+			"x-api-slug": "indico",
+			"description": "indico turns raw text and image data into human insights. We???re lowering the barriers to the development, integration, and customization of machine learning algorithms by providing developer-friendly tools and APIs for building smarter software",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28243-indico-io.jpg",
+			"humanURL": "https://indico.io",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/indico/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WayBlazer",
+			"x-api-slug": "wayblazer",
+			"description": "WayBlazer uses artificial intelligence-driven software to transform online travel planning",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28273-www-wayblazer-ai.jpg",
+			"humanURL": "https://www.wayblazer.ai",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/wayblazer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atooma - Resonance AI",
+			"x-api-slug": "atooma--resonance-ai",
+			"description": "Resonance AI makes devices use IoE and big data in order to forecast user problems, and solve them with personalized automation and suggestions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28415-www-resonance-ai-com.jpg",
+			"humanURL": "http://www.resonance-ai.com",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/atooma--resonance-ai/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Prophesee",
+			"x-api-slug": "prophesee",
+			"description": "REVEALS THE INVISIBLE with the most advanced neuromorphic vision system in the world, inspired by human vision and built on the foundation of neuromorphic engineering. PROPHESEE gives Metavision to machines, revealing what was previously invisible to t...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28700-www-prophesee-ai.jpg",
+			"humanURL": "https://www.prophesee.ai",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/prophesee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Noodle.ai",
+			"x-api-slug": "noodle-ai",
+			"description": "Noodle.ai offers a suite of interconnected AI Applications powered by learning algorithms to help enterprise executives out-calculate their competition, anticipate customer actions, and create rapid, measurable economic value.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28737-noodle-ai.jpg",
+			"humanURL": "https://noodle.ai",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/noodle-ai/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Feedzai",
+			"x-api-slug": "feedzai",
+			"description": "Feedzai is a data science company that detects fraud in omnichannel commerce.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28753-feedzai-com.jpg",
+			"humanURL": "https://feedzai.com",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/feedzai/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "InData Labs",
+			"x-api-slug": "indata-labs",
+			"description": "InData Labs provides data science consulting, custom AI-powered software development, and data science training. Focusing on predictive analytics, natural language processing, and computer vision, we help businesses innovate with AI, enrich customer in...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28778-indatalabs-com.jpg",
+			"humanURL": "https://indatalabs.com",
+			"baseURL": "https:///",
+			"tags": "Artificial Intelligence",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/indata-labs/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Artificial Intelligence",
+	"include": [
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Pingdom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apis.yaml"
+		},
+		{
+			"name": "BMC Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/bmc-software/apis.yaml"
+		},
+		{
+			"name": "API Science",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/api-science/apis.yaml"
+		},
+		{
+			"name": "Pingometer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/apis.yaml"
+		},
+		{
+			"name": "Apica",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/apica/apis.yaml"
+		},
+		{
+			"name": "Crimson Hexagon",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/crimson-hexagon/apis.yaml"
+		},
+		{
+			"name": "Infermedica",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/infermedica/apis.yaml"
+		},
+		{
+			"name": "Sentient Technologies",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/sentient-technologies/apis.yaml"
+		},
+		{
+			"name": "Indico",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/indico/apis.yaml"
+		},
+		{
+			"name": "WayBlazer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/wayblazer/apis.yaml"
+		},
+		{
+			"name": "Atooma - Resonance AI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/atooma--resonance-ai/apis.yaml"
+		},
+		{
+			"name": "Prophesee",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/prophesee/apis.yaml"
+		},
+		{
+			"name": "Noodle.ai",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/noodle-ai/apis.yaml"
+		},
+		{
+			"name": "Feedzai",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/feedzai/apis.yaml"
+		},
+		{
+			"name": "InData Labs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/indata-labs/apis.yaml"
+		}
+	]
+}

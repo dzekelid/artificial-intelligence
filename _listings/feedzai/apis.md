@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28753-feed
 x-kinRank: "7"
 x-alexaRank: "229422"
 tags: Artificial Intelligence
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/feedzai/apis.md
 specificationVersion: "0.14"
 apis: []

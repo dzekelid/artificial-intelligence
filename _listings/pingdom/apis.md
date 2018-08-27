@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdo
 x-kinRank: "7"
 x-alexaRank: "5876"
 tags: Artificial Intelligence
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,6 +26,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionanalysischeckid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionanalysischeckid-get-openapi.md
+- name: Checks API - Get Check List
+  x-api-slug: apiversionchecks-get
+  description: Returns a list overview of all checks.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg
+  humanURL: http://www.pingdom.com
+  baseURL: https://api.pingdom.com//
+  tags: Monitoring, Performance, SaaS, Technology, internet, Service API, Relative
+    Data, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingdom/apiversionchecks-get-openapi.md
 - name: Probes API - Get Probe Server List
   x-api-slug: apiversionprobes-get
   description: Returns a list of all Pingdom probe servers for Uptime and Transaction

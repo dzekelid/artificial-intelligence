@@ -7,11 +7,22 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-ping
 x-kinRank: "8"
 x-alexaRank: "1995680"
 tags: Artificial Intelligence
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Checks API - Get Check List
+  x-api-slug: apiversionchecks-get
+  description: Returns a list overview of all checks.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18847-pingometer.jpg
+  humanURL: https://pingometer.com/
+  baseURL: https://api.pingdom.com//
+  tags: Monitoring, Performance, Stack Network, SaaS, Technology, internet, Relative
+    Data, Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/artificial-intelligence/master/_listings/pingometer/apiversionchecks-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://pingdom.api.gallery.streamdata.io
